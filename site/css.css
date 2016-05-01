@@ -1,0 +1,79 @@
+body {
+
+  background-color: white;
+}
+
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+#logo-img {
+  background: url('../images/Logo2.jpg') no-repeat;
+  width: 169px;
+  height: 107px;
+  margin: 10px 15px 10px 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: white;
+}
+#nav-list a:hover {
+  background: gray;
+}
+#nav-list a span {
+  font-size: 2em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+  vertical-align: middle;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  position: relative;
+}
+section {
+  margin: 0 auto;
+  background: gray;
+  float: left;
+  border: 1px solid black;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  padding: 20px;
+  margin-bottom: 30px;
+  }
+h2 {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 25px;
+}
+.margin- {
+  margin-bottom: 20px;
+}
+.border-lis{
+  border-bottom: 2px solid black;
+}
